@@ -8,4 +8,4 @@ A spec was given to implement.
 
 | Display Requirements | Interaction Requirements | Commit Url |
 | ------------- | ------------- | :-------------: |
-| The application should display a picture of a cat and a number of clicks. | The number of clicks should increment when the cat picture is clicked. | [Cat Clicker version 1](https://github.com/carlotapearl)
+| The application should display a picture of a cat and a number of clicks. | The number of clicks should increment when the cat picture is clicked. | [Cat Clicker version 1](https://github.com/carlotapearl/Udacity-FEND-cat-clicker/tree/aa1702c813aff03ce502f8c3bbf6bd0278c28126)
