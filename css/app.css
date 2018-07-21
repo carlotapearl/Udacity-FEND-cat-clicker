@@ -2,11 +2,19 @@
     text-align: center;
 }
 
-#kitty {
-    width: 100%;
+img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;    
+}
+div {
+    display: flex;
+    flex-direction: column;
 }
 
-.clickNum {
+p {
     font-size: 1.5em;
     text-align: center;
 }
