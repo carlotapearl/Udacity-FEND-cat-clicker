@@ -35,7 +35,7 @@ var cats = [
 	},
 	{
 		"name": "Garfield",
-		"pic": "http://placeimg.com/200/200/animals?t=1532345858210",
+		"pic": "http://placeimg.com/200/200/animals?t=1532809178282",
 		"clicks": 0
 	},
 	{
@@ -45,7 +45,7 @@ var cats = [
 	},
 	{
 		"name": "Tom",
-		"pic": "http://placeimg.com/200/200/animals?t=1532345917536",
+		"pic": "http://placeimg.com/200/200/animals?t=1532809249160",
 		"clicks": 0
 	}
 ];
