@@ -18,5 +18,5 @@ A spec was given to implement. After implementing version 1, the spec was change
 ### [Cat Clicker Version 2](https://github.com/carlotapearl/Udacity-FEND-cat-clicker/tree/dba000b90033c97b7a14a3c537a14153d9e6973e)
 ![catclickerv2.png](catclickerv2.PNG)
 
-### [Cat Clicker Premium](cat-clicker-premium.PNG)(https://github.com/carlotapearl/Udacity-FEND-cat-clicker/tree/master/cat-clicker-premium)
+### [Cat Clicker Premium](https://github.com/carlotapearl/Udacity-FEND-cat-clicker/tree/master/cat-clicker-premium)
 ![cat-clicker-premium.PNG](cat-clicker-premium.PNG)
