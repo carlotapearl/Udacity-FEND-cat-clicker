@@ -25,13 +25,13 @@ var model = {
 			clickCount: 0,
 			name : 'Silvester',
 			imgSrc : './images/chewie.jpg',
-			imgAttribution: ''
+			imgAttribution: 'https://www.flickr.com/photos/chewie/2290467335'
 		},
 		{
 			clickCount: 0,
 			name : 'Milo',
 			imgSrc : 'images/poplinrecat.jpg',
-			imgAttribution: ''			
+			imgAttribution: 'https://www.flickr.com/photos/poplinre/625069434/in/photostream/'			
 		},
 		{
 			clickCount: 0,
