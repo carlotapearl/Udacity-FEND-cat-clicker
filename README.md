@@ -20,3 +20,6 @@ A spec was given to implement. After implementing version 1, the spec was change
 
 ### [Cat Clicker Premium](https://github.com/carlotapearl/Udacity-FEND-cat-clicker/tree/master/cat-clicker-premium)
 ![cat-clicker-premium.PNG](images/cat-clicker-premium.PNG)
+
+### [Cat Clicker MVC](https://github.com/carlotapearl/Udacity-FEND-cat-clicker)
+![cat-clicker-premium.PNG](images/cat-clicker-mvc.PNG)
